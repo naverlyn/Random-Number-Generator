@@ -1,0 +1,11 @@
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Number Generator\bin\Release\Random Number Generator.exe.config
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Number Generator\bin\Release\Random Number Generator.exe
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Number Generator\bin\Release\Random Number Generator.pdb
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Number Generator\bin\Release\Random Number Generator.xml
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Number Generator\obj\Release\Random_Number_Generator.Form1.resources
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Number Generator\obj\Release\Random_Number_Generator.Resources.resources
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Number Generator\obj\Release\Random Number Generator.vbproj.GenerateResource.cache
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Number Generator\obj\Release\Random Number Generator.vbproj.CoreCompileInputs.cache
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Number Generator\obj\Release\Random Number Generator.exe
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Number Generator\obj\Release\Random Number Generator.xml
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Number Generator\obj\Release\Random Number Generator.pdb
