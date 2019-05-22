@@ -8,4 +8,5 @@ Aplikasi dimana mengambil sebuah angka secara acak layaknya random.org
     - .NET Framework 4.7.2
 
 # Compile
-   - tinggal buka .sln nya, lalu tekan F5
+   - tinggal buka .sln nya, lalu tekan F5, atau
+   - buka folder bin/Debug atau Release, tinggal dibuka .exe nya saja
